@@ -1,0 +1,6 @@
+com\mycompany\blog\Conexion.class
+com\mycompany\blog\Mensaje.class
+com\mycompany\blog\JakartaRestConfiguration.class
+com\mycompany\blog\Main.class
+com\mycompany\blog\MensajeDAO.class
+com\mycompany\blog\resources\JakartaEE10Resource.class
